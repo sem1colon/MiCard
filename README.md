@@ -1,4 +1,4 @@
-# micard
+# Mi Card
 
 MiContact, built with Flutter.
 
